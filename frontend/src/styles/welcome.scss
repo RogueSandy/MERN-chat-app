@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  img {
+    height: 15rem;
+  }
+  h1 {
+    color: white;
+    span {
+      text-transform: capitalize;
+      color: #4e04ff;
+    }
+  }
+  h3 {
+    color: white;
+  }
+}
