@@ -48,6 +48,9 @@ The frontend server will be running on http://localhost:3000.
  - Start sending messages to other users in real-time.
  - Use emojis to enhance your messages.
 
+## Known Issues
+There is currently no feature to upload avatar images during the sign-up process.
+
 ## Technologies Used
  - MongoDB: For the database.
  - Express.js: For the backend framework.
